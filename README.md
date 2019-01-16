@@ -12,5 +12,5 @@ This document outlines the requirements that we have set for our solution. These
 
 This document outlines our entire solution from start to finish. It includes our research as well as design concepts on how our final design will be implemented.
 
-This document also furfills the requirements outlined in the system design and requirments document
+This document also furfills the requirements outlined in the System Design and Requirments Document
 
